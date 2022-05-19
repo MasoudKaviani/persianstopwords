@@ -1,0 +1,6 @@
+https://gist.github.com/larsyencken/1440509
+https://github.com/ziaa/Persian-stopwords-collection
+https://github.com/kharazi/persian-stopwords
+https://www.ranks.nl/stopwords/persian
+https://github.com/amirshnll/persian-stop-word/blob/main/stop-words.txt
+https://aftab.cc/article/1232-%D9%84%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A7%D8%B2-%DA%A9%D9%84%D9%85%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D8%B2%D8%A8%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C---Stop-Words-in-Persian
