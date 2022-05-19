@@ -1,2 +1,2 @@
-# persianstopwords
-persian (farsi) full stopwords dataset
+# Persian (Farsi) Stopwords
+This dataset aggregates from diffrent sources
