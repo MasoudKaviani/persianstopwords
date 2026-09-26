@@ -1,3 +1,8 @@
+# Sources used to build this Persian stopwords dataset
+#
+# Each line is a URL to a resource that contributed stopwords to stopwords.txt.
+# If you add new sources, append them here.
+
 https://gist.github.com/larsyencken/1440509
 https://github.com/ziaa/Persian-stopwords-collection
 https://github.com/kharazi/persian-stopwords
