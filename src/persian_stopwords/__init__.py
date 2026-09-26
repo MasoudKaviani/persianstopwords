@@ -16,7 +16,7 @@ from __future__ import annotations
 import importlib.resources as _resources
 from typing import FrozenSet, Iterable, List
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 __all__ = [
     "load_stopwords",
